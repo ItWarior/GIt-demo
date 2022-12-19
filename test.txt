@@ -1,1 +1,2 @@
-Some chenges to the file test sone changes. Add changes in github 
+Some chenges to the file test sone changes. Add changes in github. 
+New changes for git gui
